@@ -5,5 +5,3 @@
 ## Lembrem-se de criar a estrutura no vscode e ir no terminal: npm install express mysql body-parser 
 
 que vai instalar os pacotes
- 
-obs: instalar pacotes "npm install express mysql body-parser" 
