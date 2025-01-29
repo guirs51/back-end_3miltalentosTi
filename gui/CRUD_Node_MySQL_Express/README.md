@@ -6,3 +6,4 @@
 
 que vai instalar os pacotes
  
+obs: instalar pacotes "npm install express mysql body-parser" 
